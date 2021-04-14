@@ -24,6 +24,43 @@ chai
 
 reload
 
+open windows powershell
+mkdir solidity
+cd solidity
+
+trfulle init
+----------------------------------
+Windows PowerShell
+Copyright (C) 2015 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\Ni3> cd .\Desktop\
+PS C:\Users\Ni3\Desktop> mkdir solidity
+
+
+    Directory: C:\Users\Ni3\Desktop
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        4/14/2021   2:07 PM                solidity
+
+
+PS C:\Users\Ni3\Desktop> cd .\solidity\
+PS C:\Users\Ni3\Desktop\solidity> truffle init
+
+Starting init...
+================
+
+> Copying project files to C:\Users\Ni3\Desktop\solidity
+
+Init successful, sweet!
+
+PS C:\Users\Ni3\Desktop\solidity> code .
+PS C:\Users\Ni3\Desktop\solidity>
+
+
+
+
 
 
 
