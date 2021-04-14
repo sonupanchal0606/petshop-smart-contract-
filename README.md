@@ -16,3 +16,15 @@ ganache will create a personal blockchain for us which we can use to deploy our 
 
 download and install VScode : editor
 
+in VS code install following extentions
+solidity
+java script snippet
+mocha
+chai
+
+reload
+
+
+
+
+
