@@ -60,6 +60,12 @@ PS C:\Users\Ni3\Desktop\solidity>
 
 
 
+truffle develop : provides as local blockchain for the development and testing purpose
+truffle deploy/truffle migrate/truffle deploy --reset : 
+trufffle install : it only installs the contract
+truffle unbox : it downloads the whole dapp application (https://www.trufflesuite.com/boxes/)
+truffle compile
+truffle migrate : where to deploy the network
 
 
 
