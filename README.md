@@ -50,6 +50,8 @@ PS C:\Users\Ni3\Desktop\solidity> truffle deploy or truffle migrate
 
 
 follow this to unbox react box https://www.trufflesuite.com/boxes/react
+to skip the role of metamask , you can copy the url and paste in new incognito tab
+
 truffle networks : will give the contract address which have deployed to our networks
 truffle develop : provides as local blockchain for the development and testing purpose
 truffle deploy/truffle migrate/truffle deploy --reset : 
