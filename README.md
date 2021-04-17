@@ -1,6 +1,6 @@
 # petshop-smart-contract-
 
-steps
+steps to install the skeleton contract
 open terminal
 C:\Users\Ni3>cd  Desktop
 C:\Users\Ni3\Desktop>mkdir petshop
