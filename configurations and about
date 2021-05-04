@@ -6,7 +6,7 @@ download node js
   node -v
 
 open cmd as administrator and run
-npm install -g -production windows-build-tools
+npm install -g --production windows-build-tools
 
 now install truffle//development framework for ethereum
 open cmd prompt as administrator and run
